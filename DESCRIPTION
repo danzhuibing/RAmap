@@ -1,0 +1,22 @@
+Package: RAmap
+Type: Package
+Title: Bring the Amap LBS api to R
+Version: 0.1.0
+Date: 2016-08-14
+Author: Shuiping Chen
+Maintainer: Shuiping Chen <chenshuiping11@tsinghua.org.cn>
+Description: This package wraps the Amap LBS Web Service API and extend the
+    functionality of package leaflet.
+Depends:
+    leaflet,
+    sp,
+    stringr,
+    httr,
+    jsonlite,
+    splitstackshape,
+    tidyr,
+    plyr,
+    dplyr,
+    rlist
+License: GPL-2
+RoxygenNote: 5.0.1
