@@ -2,3 +2,4 @@
 
 export(addDrivingRoute)
 export(addRoadMap)
+export(getMatchingJSON)
